@@ -47,12 +47,12 @@ Dini ilimleri modern web teknolojileriyle harmanlayan projelere aktif olarak kat
 
 ---
 
-# 💼 Portföy Projeleri
+# 📖 Hakkımda
+Kalbimle ilmi, aklımla kodu bir araya getirmeye çalışıyorum. İmam Hatip Lisesi eğitimim boyunca ilmi bilgiler edindim ve Allah'ın izniyle İlahiyat Fakültesinde derinleştirmeyi, günümüzün dijital dünyasında paylaşmanın yollarını aramayı hedefliyorum.
 
-| Proje Türü | Örnekler |
-| :--- | :--- |
-| **Şablonlar & Notlar** | Gölge Kur'an, Tefsir/Tecvid/Arapça özetleri (FlipBook), Günlük Dualar, Planlayıcılar |
-| **Web Uygulamaları** | Nur Kur'an-ı Kerim, İlham & Tesbih Takibi, Kelime Oyunu, Akıllı Planlayıcı, Zikir Sayacı, Hac & Umre Rehberi, Ayat-i Kelim, iKuran, Notion Planlayıcım (Şablon) |
+Hem ilim talebesi hem de gelişmekte olan bir geliştirici olarak, modern web teknolojileriyle anlamlı dijimal çalışmalar oluşturmaya çalışıyorum.
+
+Hedefim: إن شاء الله ilmi sadece kağıtta bırakmamak, dijital dünyada yaymak ve hayır yolunda teknolojiyi kullanmak.
 
 ---
 
@@ -65,6 +65,15 @@ Dini ilimleri modern web teknolojileriyle harmanlayan projelere aktif olarak kat
 | Responsive Web Tasarım | freeCodeCamp |
 | Yazılımcılar için İngilizce (B1) | freeCodeCamp |
 | Tasarım & UI/UX Temelleri | Canva Design School |
+
+---
+
+# 💼 Projelerim
+
+| Proje Türü | Örnekler |
+| :--- | :--- |
+| **Şablonlar & Notlar** | Gölge Kur'an, Tefsir/Tecvid/Arapça özetleri (FlipBook), Günlük Dualar, Planlayıcılar |
+| **Web Uygulamaları** | Nur Kur'an-ı Kerim, İlham & Tesbih Takibi, Kelime Oyunu, Akıllı Planlayıcı, Zikir Sayacı, Hac & Umre Rehberi, Ayat-i Kelim, iKuran, Notion Planlayıcım (Şablon) |
 
 ---
 
@@ -94,25 +103,7 @@ Dini ilimleri modern web teknolojileriyle harmanlayan projelere aktif olarak kat
 - **Eslem Nur Notes™** — Dijital notlar, çalışma materyalleri
 - **Eslem Nur Kalligrafie™** — Hat sanatı, tuval işleri
 
----
-
-# 📸 Önizleme
-
-![Site Önizlemesi](https://i.pinimg.com/736x/98/a5/ca/98a5ca07841720013645e7a35330fa02.jpg)
-![İçerik Özeti](https://i.pinimg.com/736x/5e/d1/a3/5ed1a331608a5a9c1974cab89ffeb8f5.jpg)
-
----
-
-**Hakkımda:**
-Kalbimle ilmi, aklımla kodu bir araya getirmeye çalışıyorum. İmam Hatip Lisesi eğitimim boyunca ilmi bilgiler edindim ve Allah'ın izniyle İlahiyat Fakültesinde derinleştirmeyi, günümüzün dijital dünyasında paylaşmanın yollarını aramayı hedefliyorum.
-
-Hem ilim talebesi hem de gelişmekte olan bir geliştirici olarak, modern web teknolojileriyle anlamlı dijimal çalışmalar oluşturmaya çalışıyorum.
-
-Hedefim: إن شاء الله ilmi sadece kağıtta bırakmamak, dijital dünyada yaymak ve hayır yolunda teknolojiyi kullanmak.
-
 **Canlı Site:** [Eslem Nur Çetin](https://eslem-nur.github.io/official/)
-
----
 
 © 2026 **Eslem Nur Çetin**. Tüm hakları saklıdır.
 
