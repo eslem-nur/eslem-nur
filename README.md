@@ -4,7 +4,7 @@
 
 [English](./README.md) | [Türkçe](./README.tr.md)
 
-📧 Email me at *eslemnur-official@proton.me* for collaboration, projects, or anything else 😊
+📧 Email me at *eslemnur-official@proton.me* for collaboration, projects, or anything else 
 
 - 🔭 *I'm a first-year Islamic Theology Faculty student*
 - 🌱 *I'm currently learning:* Front-End Development Libraries 
