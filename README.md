@@ -126,6 +126,8 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 This project is shared with the intention of **sadaka-i jariyah** (ongoing charity). Free contents can be used freely; commercial products should be purchased via Ko-fi.
 
+> ™ denotes an unregistered trademark. These marks are used under common law trademark principles in Germany (MarkenG).
+
 ---
 
 Made with ❤️ by **Eslem Nur Çetin**
