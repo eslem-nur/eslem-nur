@@ -32,6 +32,10 @@ I actively contribute to projects that blend religious sciences with modern web 
 - 💬 Improvement based on user feedback
 - 🧪 Content shared with the intention of sadaka-i jariyah (ongoing charity)
 
+### 🛠️ Focus Areas
+
+`Islamic Tech` · `Web Development` · `Digital Content` · `Sadaka-i Cariyah (Ongoing Charity)`
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=eslem-nur&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
