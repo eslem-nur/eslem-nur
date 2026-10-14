@@ -19,6 +19,18 @@
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eslemnur-official@proton.me) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_notes) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_kalligrafie) [![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/eslemnur) [![GitHub Business Card](https://img.shields.io/badge/Business%20Card-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslem-nur/Business-Card/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/eslemnur_notes)
 
+---
+
+## 🌐 Open Source Contributions
+
+I actively contribute to projects that blend religious sciences with modern web technologies.
+
+### 🏆 Achievements
+
+- 🥇 **Knowledge & Code** — Sharing religious sciences in the digital world
+- 🔧 **Various Projects** — Quran applications, prayers, dhikr counter, planners
+- 💬 Improvement based on user feedback
+- 🧪 Content shared with the intention of sadaka-i jariyah (ongoing charity)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=eslem-nur&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
