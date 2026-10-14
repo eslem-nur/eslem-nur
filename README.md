@@ -1,25 +1,23 @@
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
+# Assalamu Alaikum wa Rahmatullahi wa Barakatuh, I'm Eslem Nur Çetin 🌸
 
-Haklısınız! Özür dilerim. Sizin gerçek README'nizde olan bilgilerle sınırlı kalıyorum. İşte sadece sizin bilgilerinizi kullanan, Sahil'in görsel tarzında README:
-
----
-
-# 💫 Hi 👋, I'm Eslem Nur Çetin
+[English](./README.md) | [Türkçe](./README.tr.md)
 
 📧 Email me at *eslemnur-official@proton.me* for collaboration, projects, or anything else 😊
 
 - 🔭 *I'm a first-year Islamic Theology Faculty student*
-- 🌱 *I'm currently learning:* Web Development (HTML5, CSS3, JavaScript)
+- 🌱 *I'm currently learning:* Front-End Development Libraries 
 - 📫 *How to reach me:* eslemnur-official@proton.me
 - 😄 *Pronouns:* She/Her
-- ⚡ *Fun fact:* Combining religious sciences with modern web technologies
+- 🎯 *Motto:* Combining religious sciences with modern web technologies
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JSX](https://img.shields.io/badge/JSX-%23E6E6E6.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TSX](https://img.shields.io/badge/TSX-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Frontend](https://img.shields.io/badge/Frontend-%23007ACC.svg?style=for-the-badge&logo=frontend&logoColor=white) ![API](https://img.shields.io/badge/API-%23FF6C37.svg?style=for-the-badge&logo=api&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌐 Socials:
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eslemnur-official@proton.me) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_notes) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_kalligrafie) [![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/eslemnur)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eslemnur-official@proton.me) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_notes) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_kalligrafie) [![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/eslemnur) [![GitHub Business Card](https://img.shields.io/badge/Business%20Card-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslem-nur/Business-Card/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eslem-nur&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
@@ -34,7 +32,9 @@ Haklısınız! Özür dilerim. Sizin gerçek README'nizde olan bilgilerle sını
 
 # 📖 About Me
 
-Imam Hatip High School graduate and first-year Islamic Theology Faculty student. I strive to combine knowledge with my heart, and code with my mind. Throughout my Imam Hatip High School education, I gained scholarly knowledge, and with Allah's permission, I aim to deepen it at the Theology Faculty and find ways to share it in today's digital world.
+I strive to combine knowledge with my heart, and code with my mind. Throughout my Imam Hatip High School education, I gained scholarly knowledge, and with Allah's permission, I aim to deepen it at the Theology Faculty and find ways to share it in today's digital world.
+
+As both a seeker of knowledge (*ilim talebesi* / theology student) and a developing developer, I try to create meaningful digital works with modern web technologies.
 
 My goal: إن شاء الله to not leave knowledge only on paper, but to spread it in the digital world and use technology on the path of good.
 
