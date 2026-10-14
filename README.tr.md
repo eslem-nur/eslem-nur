@@ -1,11 +1,11 @@
 بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
 
-# Assalamu Alaikum wa Rahmatullahi wa Barakatuh, Ben Eslem Nur Çetin
+# Assalamu Alaikum wa Rahmatullahi wa Barakatuh, Ben Eslem Nur Çetin 🌸
 
 [English](./README.md) | [Türkçe](./README.tr.md)
 
-📧 İş birliği, projeler veya başka konular için Email üzerinden ulaşabilirsiniz: *eslemnur-official@proton.me* 🌸
+📧 İş birliği, projeler veya başka konular için Email üzerinden ulaşabilirsiniz: *eslemnur-official@proton.me* 
 
 - 🔭 *İmam Hatip Lisesi mezunu ve birinci sınıf İlahiyat Fakültesi öğrencisi*
 - 🌱 *Şu anda öğreniyorum:* Front-End Development Libraries
