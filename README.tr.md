@@ -1,22 +1,26 @@
-# 💫 Merhaba 👋, Ben Eslem Nur Çetin
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-📧 İş birliği, projeler veya başka konular için Email'ime yazın: *eslemnur-official@proton.me* 😊
+
+# Assalamu Alaikum wa Rahmatullahi wa Barakatuh, Ben Eslem Nur Çetin
+
+[English](./README.md) | [Türkçe](./README.tr.md)
+
+📧 İş birliği, projeler veya başka konular için Email üzerinden ulaşabilirsiniz: *eslemnur-official@proton.me* 🌸
 
 - 🔭 *İmam Hatip Lisesi mezunu ve birinci sınıf İlahiyat Fakültesi öğrencisi*
-- 🌱 *Şu anda öğreniyorum:* Web Development (HTML5, CSS3, JavaScript)
+- 🌱 *Şu anda öğreniyorum:* Front-End Development Libraries
 - 📫 *Nasıl ulaşılır:* eslemnur-official@proton.me
 - 😄 *Pronounlar:* She/Her
-- ⚡ *Komik bilgi:* Kalbimle ilmi, aklımla kodu bir araya getirmeye çalışıyorum
+- 🎯 *Motto:* Kalbimle ilmi, aklımla kodu bir araya getirmeye çalışıyorum
 
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 > *"Ey Rabbim! İlmimizi artır."* — رَبِّ زِدْنِى عِلْمًا
 
 # 💻 Teknoloji Yığını:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JSX](https://img.shields.io/badge/JSX-%23E6E6E6.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TSX](https://img.shields.io/badge/TSX-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Frontend](https://img.shields.io/badge/Frontend-%23007ACC.svg?style=for-the-badge&logo=frontend&logoColor=white) ![API](https://img.shields.io/badge/API-%23FF6C37.svg?style=for-the-badge&logo=api&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌐 Sosyal Medya Bağlantıları:
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eslemnur-official@proton.me) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_notes) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_kalligrafie) [![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/eslemnur)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eslemnur-official@proton.me) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_notes) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_kalligrafie) [![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/eslemnur) [![GitHub Business Card](https://img.shields.io/badge/Business%20Card-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslem-nur/Business-Card/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/eslemnur_notes_TR)
 
 ## 🏆 GitHub Ganimetleri
 ![](https://github-profile-trophy.vercel.app/?username=eslem-nur&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
@@ -101,7 +105,9 @@ Dini ilimleri modern web teknolojileriyle harmanlayan projelere aktif olarak kat
 ---
 
 **Hakkımda:**
-Ben Eslem Nur. Hem ilim talebesi hem de gelişmekte olan bir geliştirici olarak, modern web teknolojileriyle anlamlı dijital çalışmalar oluşturmaya çalışıyorum. İmam Hatip Lisesi eğitimim boyunca ilmi bilgiler edindim ve Allah'ın izniyle İlahiyat Fakültesinde derinleştirmeyi, günümüzün dijital dünyasında paylaşmanın yollarını aramayı hedefliyorum.
+Kalbimle ilmi, aklımla kodu bir araya getirmeye çalışıyorum. İmam Hatip Lisesi eğitimim boyunca ilmi bilgiler edindim ve Allah'ın izniyle İlahiyat Fakültesinde derinleştirmeyi, günümüzün dijital dünyasında paylaşmanın yollarını aramayı hedefliyorum.
+
+Hem ilim talebesi hem de gelişmekte olan bir geliştirici olarak, modern web teknolojileriyle anlamlı dijimal çalışmalar oluşturmaya çalışıyorum.
 
 Hedefim: إن شاء الله ilmi sadece kağıtta bırakmamak, dijital dünyada yaymak ve hayır yolunda teknolojiyi kullanmak.
 
