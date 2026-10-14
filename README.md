@@ -107,6 +107,9 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 **License:** [CC BY-NC-SA 4.0](./LICENSE)
 
+🇬🇧 [Lisans Detayları (İngilizce)](./LICENSE.md)
+🇹🇷 [Lisans Detayları (Türkçe)](./LICENSE.tr.md)
+
 This project is shared with the intention of **sadaka-i jariyah** (ongoing charity). Free contents can be used freely; commercial products should be purchased via Ko-fi.
 
 ---
