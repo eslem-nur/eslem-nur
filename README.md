@@ -19,10 +19,6 @@
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eslemnur-official@proton.me) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_notes) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_kalligrafie) [![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/eslemnur) [![GitHub Business Card](https://img.shields.io/badge/Business%20Card-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslem-nur/Business-Card/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/eslemnur_notes)
 
-## 🏆 GitHub Trophies
-## 🏆 GitHub Başarımları
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=eslem-nur&theme=github&row=1&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=eslem-nur&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
