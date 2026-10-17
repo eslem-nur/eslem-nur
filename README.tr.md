@@ -16,30 +16,30 @@
 > *"Ey Rabbim! İlmimizi artır."* — رَبِّ زِدْنِى عِلْمًا
 
 # 💻 Teknoloji Yığını:
-![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=D48CA0)
-![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=D48CA0)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=D48CA0)
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=D48CA0)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=D48CA0)
-![JSX](https://img.shields.io/badge/JSX-000000?style=for-the-badge&logo=react&logoColor=D48CA0)
-![TSX](https://img.shields.io/badge/TSX-000000?style=for-the-badge&logo=typescript&logoColor=D48CA0)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=D48CA0)
-![CSharp](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=D48CA0)
-![Frontend](https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=frontend&logoColor=D48CA0)
-![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=D48CA0)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=D48CA0)
-![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=D48CA0)
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=D48CA0)
-![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=D48CA0)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=D48CA0)
+![HTML5](https://img.shields.io/badge/html5-010101?style=for-the-badge&logo=html5&logoColor=c583a0)
+![CSS3](https://img.shields.io/badge/css3-010101?style=for-the-badge&logo=css3&logoColor=c583a0)
+![JavaScript](https://img.shields.io/badge/javascript-010101?style=for-the-badge&logo=javascript&logoColor=c583a0)
+![TypeScript](https://img.shields.io/badge/typescript-010101?style=for-the-badge&logo=typescript&logoColor=c583a0)
+![React](https://img.shields.io/badge/react-010101?style=for-the-badge&logo=react&logoColor=c583a0)
+![JSX](https://img.shields.io/badge/JSX-010101?style=for-the-badge&logo=react&logoColor=c583a0)
+![TSX](https://img.shields.io/badge/TSX-010101?style=for-the-badge&logo=typescript&logoColor=c583a0)
+![Python](https://img.shields.io/badge/python-010101?style=for-the-badge&logo=python&logoColor=c583a0)
+![CSharp](https://img.shields.io/badge/c%23-010101?style=for-the-badge&logo=csharp&logoColor=c583a0)
+![Frontend](https://img.shields.io/badge/Frontend-010101?style=for-the-badge&logo=frontend&logoColor=c583a0)
+![API](https://img.shields.io/badge/API-010101?style=for-the-badge&logo=api&logoColor=c583a0)
+![Canva](https://img.shields.io/badge/Canva-010101?style=for-the-badge&logo=Canva&logoColor=c583a0)
+![Figma](https://img.shields.io/badge/figma-010101?style=for-the-badge&logo=figma&logoColor=c583a0)
+![Git](https://img.shields.io/badge/git-010101?style=for-the-badge&logo=git&logoColor=c583a0)
+![GitHub](https://img.shields.io/badge/github-010101?style=for-the-badge&logo=github&logoColor=c583a0)
+![VS Code](https://img.shields.io/badge/VS_Code-010101?style=for-the-badge&logo=visualstudiocode&logoColor=c583a0)
 
 ## 🌐 Sosyal Medya Bağlantıları:
 
-[![email](https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=D48CA0)](mailto:eslemnur-official@proton.me)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=kofi&logoColor=D48CA0)](https://ko-fi.com/eslemnur_notes)
-[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=D48CA0)](http://linktr.ee/eslemnur)
-[![GitHub Business Card](https://img.shields.io/badge/Business%20Card-000000?style=for-the-badge&logo=github&logoColor=D48CA0)](https://github.com/eslem-nur/Business-Card/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=D48CA0)](https://pinterest.com/eslemnur_notes_TR)
+[![email](https://img.shields.io/badge/Email-010101?logo=gmail&logoColor=c583a0)](mailto:eslemnur-official@proton.me)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-010101?style=for-the-badge&logo=kofi&logoColor=c583a0)](https://ko-fi.com/eslemnur_notes)
+[![Linktree](https://img.shields.io/badge/Linktree-010101?style=for-the-badge&logo=linktree&logoColor=c583a0)](http://linktr.ee/eslemnur)
+[![GitHub Business Card](https://img.shields.io/badge/Business%20Card-010101?style=for-the-badge&logo=github&logoColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-010101?style=for-the-badge&logo=pinterest&logoColor=c583a0)](https://pinterest.com/eslemnur_notes_TR)
 
 ---
 
@@ -60,11 +60,11 @@ Dini ilimleri modern web teknolojileriyle harmanlayan projelere aktif olarak kat
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=eslem-nur&show_icons=true&theme=dark&bg_color=000000&title_color=D48CA0&text_color=D48CA0&icon_color=D48CA0&border_color=D48CA0&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=eslem-nur&show_icons=true&bg_color=010101&title_color=c583a0&text_color=c583a0&icon_color=c583a0&border_color=c583a0&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=eslem-nur&theme=dark&bg_color=000000&fire=D48CA0&currStreakLabel=D48CA0&sideNums=D48CA0&ring=D48CA0&border=D48CA0&dates=D48CA0&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=eslem-nur&background=010101&fire=c583a0&currStreakLabel=c583a0&sideNums=c583a0&sideLabels=c583a0&ring=c583a0&dates=c583a0&border=010101&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslem-nur&layout=compact&theme=dark&bg_color=000000&title_color=D48CA0&text_color=D48CA0&icon_color=D48CA0&border_color=D48CA0&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslem-nur&layout=compact&bg_color=010101&title_color=c583a0&text_color=c583a0&border_color=c583a0&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
