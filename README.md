@@ -1,12 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c583a0&height=120&section=header&text=Eslem%20Nur%20Çetin&fontColor=010101&fontSize=40" width="100%" />
+<div align="center">
 
+# بسم الله الرحمن الرحيم
+</div>
 <div align="center">
   <img src="./logo.gif" alt="Eslem Nur Logo" width="100%" />
 </div>
 
-
-
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
 # Assalamu Alaikum wa Rahmatullahi wa Barakatuh, I'm Eslem Nur Çetin 🌸
 
@@ -64,6 +63,8 @@ I actively contribute to projects that blend religious sciences with modern web 
 ### 🛠️ Focus Areas
 
 `Islamic Tech` · `Web Development` · `Digital Content` · `Sadaka-i Cariyah (Ongoing Charity)`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 ## 📊 GitHub Stats:
 
@@ -156,6 +157,8 @@ Projects are shared with the intention of **sadaka-i jariyah** (ongoing charity)
 > ™ denotes an unregistered trademark. These marks are used under common law trademark principles in Germany (MarkenG).
 
 
-Made with ❤️ by **Eslem Nur Çetin**
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c583a0&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c583a0&height=120&section=footer&text=Made%20with%20love%20by%20Eslem%20Nur%20%C3%87etin&fontSize=22&fontColor=010101&fontAlignY=72" width="100%" />
+
+</div>
