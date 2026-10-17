@@ -22,9 +22,9 @@
 
 Kalbimle ilmi, zihnimle kodu birleştirmeye çalışıyorum. Imam Hatip Lisesi eğitimim boyunca edindiğim akademik bilgiyi, İnşallah İlahiyat Fakültesi'nde derinleştirmeyi ve bunu günümüzün dijital dünyasında paylaşmanın yollarını bulmayı hedefliyorum.
 
-Hem bir *ilim talebesi* (ilahiyat öğrencisi) hem de gelişmekte olan bir geliştirici olarak, modern web teknolojileriyle anlamlı dijital çalışmalar üretmeye çalışıyorum.
+Hem bir *ilim talebesi* (ilahiyat öğrencisi)hem de kendini geliştiren bir yazılımcı olarak, modern web teknolojileriyle anlamlı dijital eserler ortaya koymaya çalışıyorum.
 
-Amacım: إن شاء الله bilgiyi sadece kağıtta bırakmamak, onu dijital dünyada yaymak ve iyilik yolunda teknolojiyi kullanmak.
+Amacım: إن شاء الله ilmi sadece kağıt üzerinde bırakmamak, onu dijital dünyada yaygınlaştırmak ve teknolojiyi hayır yolunda kullanmaktır.
 
 > 📖 *"Rabbi zidni ilma"* — Ey Rabbim, ilmimi arttır!
 
