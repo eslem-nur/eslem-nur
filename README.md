@@ -37,22 +37,22 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-![HTML5](https://img.shields.io/badge/HTML5-010101?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3 - css slug](https://img.shields.io/badge/CSS3-010101?style=flat-square&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-010101?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-010101?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-010101?style=flat-square&logo=react&logoColor=61DAFB)
-![JSX](https://img.shields.io/badge/JSX-010101?style=flat-square&logo=react&logoColor=61DAFB)
-![TSX](https://img.shields.io/badge/TSX-010101?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-010101?style=flat-square&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/C%23-010101?style=flat-square&logo=csharp&logoColor=239120)
-![Canva](https://img.shields.io/badge/Canva-010101?style=flat-square&logo=canva&logoColor=00C4CC)
-![Figma](https://img.shields.io/badge/Figma-010101?style=flat-square&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-010101?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-010101?style=flat-square&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-010101?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Frontend](https://img.shields.io/badge/Frontend-010101?style=flat-square&logo=htmlacademy&logoColor=FFFFFF)
-![API](https://img.shields.io/badge/API-010101?style=flat-square&logo=postman&logoColor=FF6C37)
+![HTML5](https://img.shields.io/badge/html5-010101?style=for-the-badge&logo=html5&logoColor=c583a0)
+![CSS3](https://img.shields.io/badge/css3-010101?style=for-the-badge&logo=css3&logoColor=c583a0)
+![JavaScript](https://img.shields.io/badge/javascript-010101?style=for-the-badge&logo=javascript&logoColor=c583a0)
+![TypeScript](https://img.shields.io/badge/typescript-010101?style=for-the-badge&logo=typescript&logoColor=c583a0)
+![React](https://img.shields.io/badge/react-010101?style=for-the-badge&logo=react&logoColor=c583a0)
+![JSX](https://img.shields.io/badge/JSX-010101?style=for-the-badge&logo=react&logoColor=c583a0)
+![TSX](https://img.shields.io/badge/TSX-010101?style=for-the-badge&logo=typescript&logoColor=c583a0)
+![Python](https://img.shields.io/badge/python-010101?style=for-the-badge&logo=python&logoColor=c583a0)
+![CSharp](https://img.shields.io/badge/c%23-010101?style=for-the-badge&logo=csharp&logoColor=c583a0)
+![Frontend](https://img.shields.io/badge/Frontend-010101?style=for-the-badge&logo=frontend&logoColor=c583a0)
+![API](https://img.shields.io/badge/API-010101?style=for-the-badge&logo=api&logoColor=c583a0)
+![Canva](https://img.shields.io/badge/Canva-010101?style=for-the-badge&logo=Canva&logoColor=c583a0)
+![Figma](https://img.shields.io/badge/figma-010101?style=for-the-badge&logo=figma&logoColor=c583a0)
+![Git](https://img.shields.io/badge/git-010101?style=for-the-badge&logo=git&logoColor=c583a0)
+![GitHub](https://img.shields.io/badge/github-010101?style=for-the-badge&logo=github&logoColor=c583a0)
+![VS Code](https://img.shields.io/badge/VS_Code-010101?style=for-the-badge&logo=visualstudiocode&logoColor=c583a0)
 
 
 ### Focus Areas
