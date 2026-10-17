@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c583a0&height=120&section=header&text=Eslem%20Nur%20Çetin&fontColor=010101&fontSize=40" width="100%" />
+
 <div align="center">
   <img src="./logo.gif" alt="Eslem Nur Logo" width="100%" />
 </div>
@@ -144,7 +146,7 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 © 2026 **Eslem Nur Çetin**. All rights reserved.
 
-**License:** [CC BY-NC-SA 4.0](./LICENSE)
+![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-010101?style=for-the-badge&logo=creativecommons&logoColor=c583a0)
 
 🇬🇧 [Lisans Detayları (İngilizce)](./LICENSE.md)
 🇹🇷 [Lisans Detayları (Türkçe)](./LICENSE.tr.md)
@@ -156,4 +158,4 @@ Projects are shared with the intention of **sadaka-i jariyah** (ongoing charity)
 
 Made with ❤️ by **Eslem Nur Çetin**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c583a0&height=60&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c583a0&height=100&section=footer" width="100%" />
