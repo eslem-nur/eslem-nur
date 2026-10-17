@@ -41,7 +41,7 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-<!-- ===================== THEME-SENSITIVE BADGES ===================== -->
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/html5-0d1117?style=for-the-badge&logo=html5&logoColor=c583a0">
   <img src="https://img.shields.io/badge/html5-FFFFFF?style=for-the-badge&logo=html5&logoColor=4E342E">
@@ -107,14 +107,19 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
   <img src="https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=4E342E">
 </picture>
 
+</div>
 
+<div align="center">
+  
 ### Focus Areas
 
 `Islamic Tech` · `Web Development` · `Digital Content` · `Sadaka-i Cariyah (Ongoing Charity)`
 
+</div>
 
 ## ✦ GitHub Stats
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eslem-nur&show_icons=true&bg_color=0d1117&title_color=c583a0&text_color=c583a0&icon_color=c583a0&border_color=c583a0&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=eslem-nur&show_icons=true&bg_color=FFFFFF&title_color=c583a0&text_color=4E342E&icon_color=c583a0&border_color=c583a0&count_private=true&include_all_commits=true">
@@ -132,9 +137,9 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslem-nur&layout=compact&bg_color=FFFFFF&title_color=c583a0&text_color=4E342E&border_color=c583a0&count_private=true&include_all_commits=true">
 </picture>
 
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-## ✦ Contact
 
 <div align="center">
 
@@ -142,11 +147,7 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 <sub>`˖⊹𖥔` Germany &nbsp;·&nbsp; [eslemnur-official@proton.me](mailto:eslemnur-official@proton.me) &nbsp;·&nbsp; <code>eslem@dev$ _</code></sub>
 
-<!-- BUSINESS CARD badge'i de tema duyarlı -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Business_Card-0d1117?style=flat-square&logo=github&logoColor=c583a0">
-  <img src="https://img.shields.io/badge/Business_Card-FFFFFF?style=flat-square&logo=github&logoColor=4E342E">
-</picture>
+[![Business Card](https://img.shields.io/badge/Business_Card-0d1117?style=for-the-badge&logo=github&logoColor=c583a0)](https://eslem-nur.github.io/Business-Card/en.html)
 
 </br>
 </br>
