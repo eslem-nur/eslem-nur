@@ -13,12 +13,32 @@
 - 😄 *Pronouns:* She/Her
 - 🎯 *Motto:* Combining religious sciences with modern web technologies
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JSX](https://img.shields.io/badge/JSX-%23E6E6E6.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TSX](https://img.shields.io/badge/TSX-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Frontend](https://img.shields.io/badge/Frontend-%23007ACC.svg?style=for-the-badge&logo=frontend&logoColor=white) ![API](https://img.shields.io/badge/API-%23FF6C37.svg?style=for-the-badge&logo=api&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=D48CA0)
+![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=D48CA0)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=D48CA0)
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=D48CA0)
+![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=D48CA0)
+![JSX](https://img.shields.io/badge/JSX-000000?style=for-the-badge&logo=react&logoColor=D48CA0)
+![TSX](https://img.shields.io/badge/TSX-000000?style=for-the-badge&logo=typescript&logoColor=D48CA0)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=D48CA0)
+![CSharp](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=D48CA0)
+![Frontend](https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=frontend&logoColor=D48CA0)
+![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=D48CA0)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=D48CA0)
+![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=D48CA0)
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=D48CA0)
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=D48CA0)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=D48CA0)
 
 ## 🌐 Socials:
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eslemnur-official@proton.me) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_notes) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F64C57?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/eslemnur_kalligrafie) [![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/eslemnur) [![GitHub Business Card](https://img.shields.io/badge/Business%20Card-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslem-nur/Business-Card/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/eslemnur_notes)
+[![email](https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=D48CA0)](mailto:eslemnur-official@proton.me)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=kofi&logoColor=D48CA0)](https://ko-fi.com/eslemnur_notes)
+[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=D48CA0)](http://linktr.ee/eslemnur)
+[![GitHub Business Card](https://img.shields.io/badge/Business%20Card-000000?style=for-the-badge&logo=github&logoColor=D48CA0)](https://github.com/eslem-nur/Business-Card/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=D48CA0)](https://pinterest.com/eslemnur_notes)
 
 ---
 
@@ -28,20 +48,22 @@ I actively contribute to projects that blend religious sciences with modern web 
 
 ### 🏆 Achievements
 
-- 🥇 **Knowledge & Code** — Sharing religious sciences in the digital world
-- 🔧 **Various Projects** — Quran applications, prayers, dhikr counter, planners
-- 💬 Improvement based on user feedback
-- 🧪 Content shared with the intention of sadaka-i jariyah (ongoing charity)
+- 🌸 **Knowledge & Code** — Sharing religious sciences in the digital world
+- 🌸 **Various Projects** — Quran applications, prayers, dhikr counter, planners
+- Improvement based on user feedback
+- Content shared with the intention of sadaka-i jariyah (ongoing charity)
 
 ### 🛠️ Focus Areas
 
 `Islamic Tech` · `Web Development` · `Digital Content` · `Sadaka-i Cariyah (Ongoing Charity)`
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=eslem-nur&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://streak-stats.demolab.com/?user=eslem-nur&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=eslem-nur&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=eslem-nur&show_icons=true&theme=dark&bg_color=000000&title_color=D48CA0&text_color=D48CA0&icon_color=D48CA0&border_color=D48CA0&hide_border=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=eslem-nur&theme=dark&bg_color=000000&fire=D48CA0&currStreakLabel=D48CA0&sideNums=D48CA0&ring=D48CA0&border=D48CA0&dates=D48CA0&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslem-nur&layout=compact&theme=dark&bg_color=000000&title_color=D48CA0&text_color=D48CA0&icon_color=D48CA0&border_color=D48CA0&hide_border=true)
 
 ---
 
