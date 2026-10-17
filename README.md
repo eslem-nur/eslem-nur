@@ -86,55 +86,36 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 > 📖 *"Rabbi zidni ilma"* — Oh Allah, increase us in knowledge!
 
-
-# 📜 Certificates
-
-| Certificate | Institution |
-| :--- | :--- |
-| Python Programming | freeCodeCamp |
-| C# Programming | Microsoft Collaboration |
-| Responsive Web Design | freeCodeCamp |
-| English for Developers (B1) | freeCodeCamp |
-| Design & UI/UX Fundamentals | Canva Design School |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 
-# 💼 Projects
+## Certificates
 
-### Templates & Notes
-- Shadowed Quran
-- Tafsir/Tajweed/Arabic summaries (FlipBook)
-- Daily Prayers
-- Planners
+- **Python Programming** — freeCodeCamp · [View Certificate](https://drive.proton.me/urls/43SXAYP9SM#pdByWAIoVSRZ)
+- **C# Programming** — Microsoft Collaboration · [View Certificate](https://drive.proton.me/urls/N4SDZPR7Y4#neLvaileRg2a)
+- **Responsive Web Design** — freeCodeCamp · [View Certificate](https://drive.proton.me/urls/AF99YNGJS0#uXD7q961ZDWv)
+- **JavaScript Algorithms & Web Development** — freeCodeCamp · [View Certificate](https://drive.proton.me/urls/7XD1Z5CTHC#wW5bACKNO2bn)
+- **English for Developers (B1)** — freeCodeCamp · [View Certificate](https://drive.proton.me/urls/ZDY4YH3J94#6MEwomoWjkB6)
+- **Design & UI/UX Fundamentals** — Canva Design School · [View Certificate](https://drive.proton.me/urls/RXP92H17R0#6uhkNEGDMhJC)
 
-### Web Applications
-- Nur Quran-ı Kerim
-- Knowledge & Worship Tracker
-- Word Game
-- Smart Planner
-- Dhikr Counter
-- Hajj & Umrah Guide
-- Ayat-i Kelim
-- iKuran
-- My Notion Planner (Template)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 
-# 🛍️ Shop
+## Projects
 
-| Item | Details |
-| :--- | :--- |
-| **Notebooks & PDFs** | GoodNotes templates, digital notebooks, Ramadan planner (via Ko-fi) |
-| **Drawings / Calligraphy** | Personalized canvas art pieces (Germany only) |
+Explore my free digital notes and web applications built with the intention of *Sadaqah Jariyah*.
 
+[![Templates & Notes](https://img.shields.io/badge/Templates_%26_Notes_(8_Items)-010101?style=for-the-badge&logo=adobeacrobatreader&logoColor=c583a0)](https://eslem-nur.github.io/official/#projects)
+[![Web Applications](https://img.shields.io/badge/Web_Applications_(9_Items)-010101?style=for-the-badge&logo=javascript&logoColor=c583a0)](https://eslem-nur.github.io/official/#projects)
 
-# ✨ Website Features
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-| Feature | Description |
-| :--- | :--- |
-| 🌙 **Dark / Light Mode** | Preference saved persistently |
-| 📱 **Responsive Design** | Compatible with mobile, tablet, and desktop |
-| 📲 **PWA Support** | Installable as an app on your device |
-| 📑 **Tabbed Content** | Projects, certificates, and shop categorized |
-| 🎨 **Aesthetic Interface** | Elegant look with Playfair Display & Scheherazade New fonts |
+## Shop
+
+Discover my digital notebooks, planners, and personalized calligraphy art.
+
+[![Notebooks & PDF](https://img.shields.io/badge/Notebooks_%26_PDF_(6_Items)-010101?style=for-the-badge&logo=goodreads&logoColor=c583a0)](https://eslem-nur.github.io/official/#shop)
+[![Calligraphy & Canvas](https://img.shields.io/badge/Calligraphy_%26_Canvas_(9_Items)-010101?style=for-the-badge&logo=ko-fi&logoColor=c583a0)](https://eslem-nur.github.io/official/#shop)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
@@ -144,6 +125,8 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 - **Eslem Nur Kalligrafie™** — Calligraphy, canvas art
 
 **Live Site:** [Eslem Nur Çetin](https://eslem-nur.github.io/official/)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 © 2026 **Eslem Nur Çetin**. All rights reserved.
 
