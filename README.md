@@ -11,7 +11,6 @@
 
 [English](./README.md) | [Türkçe](./README.tr.md)
 
-📧 Email me at *eslemnur-official@proton.me* for collaboration, projects, or anything else 😊
 
 - 🔭 *I'm a first-year Islamic Theology Faculty student*
 - 🌱 *I'm currently learning:* Front-End Development Libraries 
@@ -39,13 +38,9 @@
 ![GitHub](https://img.shields.io/badge/github-010101?style=for-the-badge&logo=github&logoColor=c583a0)
 ![VS Code](https://img.shields.io/badge/VS_Code-010101?style=for-the-badge&logo=visualstudiocode&logoColor=c583a0)
 
-## 🌐 Socials:
+## 🌐 Contact:
 
-[![email](https://img.shields.io/badge/Email-010101?logo=gmail&logoColor=c583a0)](mailto:eslemnur-official@proton.me)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-010101?style=for-the-badge&logo=kofi&logoColor=c583a0)](https://ko-fi.com/eslemnur_notes)
-[![Linktree](https://img.shields.io/badge/Linktree-010101?style=for-the-badge&logo=linktree&logoColor=c583a0)](http://linktr.ee/eslemnur)
-[![GitHub Business Card](https://img.shields.io/badge/Business%20Card-010101?style=for-the-badge&logo=github&logoColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-010101?style=for-the-badge&logo=pinterest&logoColor=c583a0)](https://pinterest.com/eslemnur_notes)
+[![Business Card](https://img.shields.io/badge/Business_Card-010101?style=for-the-badge&logo=github&logoColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
