@@ -11,13 +11,13 @@
 [English](./README.md) | [Türkçe](./README.tr.md)
 
 📧 Email me at *eslemnur-official@proton.me* for collaboration, projects, or anything else 😊
-📧 Email me at *eslemnur-official@proton.me* for collaboration, projects, or anything else 
 
 - 🔭 *I'm a first-year Islamic Theology Faculty student*
 - 🌱 *I'm currently learning:* Front-End Development Libraries 
-- 📫 *How to reach me:* eslemnur-official@proton.me
 - 😄 *Pronouns:* She/Her
 - 🎯 *Motto:* Combining religious sciences with modern web technologies
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 ## 💻 Tech Stack:
 
@@ -46,7 +46,7 @@
 [![GitHub Business Card](https://img.shields.io/badge/Business%20Card-010101?style=for-the-badge&logo=github&logoColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-010101?style=for-the-badge&logo=pinterest&logoColor=c583a0)](https://pinterest.com/eslemnur_notes)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 ## 🌐 Open Source Contributions
 
@@ -71,7 +71,7 @@ I actively contribute to projects that blend religious sciences with modern web 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslem-nur&layout=compact&bg_color=010101&title_color=c583a0&text_color=c583a0&border_color=c583a0&hide_border=true&include_all_commits=true&count_private=true)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 # 📖 About Me
 
@@ -83,7 +83,6 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 > 📖 *"Rabbi zidni ilma"* — Oh Allah, increase us in knowledge!
 
----
 
 # 📜 Certificates
 
@@ -95,7 +94,6 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 | English for Developers (B1) | freeCodeCamp |
 | Design & UI/UX Fundamentals | Canva Design School |
 
----
 
 # 💼 Projects
 
@@ -116,7 +114,6 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 - iKuran
 - My Notion Planner (Template)
 
----
 
 # 🛍️ Shop
 
@@ -125,7 +122,6 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 | **Notebooks & PDFs** | GoodNotes templates, digital notebooks, Ramadan planner (via Ko-fi) |
 | **Drawings / Calligraphy** | Personalized canvas art pieces (Germany only) |
 
----
 
 # ✨ Website Features
 
@@ -137,7 +133,7 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 | 📑 **Tabbed Content** | Projects, certificates, and shop categorized |
 | 🎨 **Aesthetic Interface** | Elegant look with Playfair Display & Scheherazade New fonts |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 # 🎨 Brands
 
@@ -153,10 +149,11 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 🇬🇧 [Lisans Detayları (İngilizce)](./LICENSE.md)
 🇹🇷 [Lisans Detayları (Türkçe)](./LICENSE.tr.md)
 
-This project is shared with the intention of **sadaka-i jariyah** (ongoing charity). Free contents can be used freely; commercial products should be purchased via Ko-fi.
+Projects are shared with the intention of **sadaka-i jariyah** (ongoing charity). Free contents can be used freely; commercial products should be purchased via Ko-fi.
 
 > ™ denotes an unregistered trademark. These marks are used under common law trademark principles in Germany (MarkenG).
 
----
 
 Made with ❤️ by **Eslem Nur Çetin**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c583a0&height=60&section=footer" width="100%" />
