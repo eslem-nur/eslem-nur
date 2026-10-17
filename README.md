@@ -19,7 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-## Tech Stack:
+## ✦ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-010101?style=for-the-badge&logo=html5&logoColor=c583a0)
 ![CSS3](https://img.shields.io/badge/css3-010101?style=for-the-badge&logo=css3&logoColor=c583a0)
@@ -38,11 +38,6 @@
 ![GitHub](https://img.shields.io/badge/github-010101?style=for-the-badge&logo=github&logoColor=c583a0)
 ![VS Code](https://img.shields.io/badge/VS_Code-010101?style=for-the-badge&logo=visualstudiocode&logoColor=c583a0)
 
-## Contact:
-
-[![Business Card](https://img.shields.io/badge/Business_Card-010101?style=for-the-badge&logo=github&logoColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 ## Open Source Contributions
 
@@ -59,7 +54,6 @@ I actively contribute to projects that blend religious sciences with modern web 
 
 `Islamic Tech` · `Web Development` · `Digital Content` · `Sadaka-i Cariyah (Ongoing Charity)`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 ## GitHub Stats:
 
@@ -69,7 +63,6 @@ I actively contribute to projects that blend religious sciences with modern web 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslem-nur&layout=compact&bg_color=010101&title_color=c583a0&text_color=c583a0&border_color=c583a0&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 # About Me
 
@@ -81,10 +74,9 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 
 > 📖 *"Rabbi zidni ilma"* — Oh Allah, increase us in knowledge!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 
-## Certificates
+## ✦ Certificates
 
 - **Python Programming** — freeCodeCamp · [View Certificate](https://drive.proton.me/urls/43SXAYP9SM#pdByWAIoVSRZ)
 - **C# Programming** — Microsoft Collaboration · [View Certificate](https://drive.proton.me/urls/N4SDZPR7Y4#neLvaileRg2a)
@@ -96,16 +88,15 @@ My goal: إن شاء الله to not leave knowledge only on paper, but to sprea
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 
-## Projects
+## ✦ Projects
 
 Explore my free digital notes and web applications built with the intention of *Sadaqah Jariyah*.
 
 [![Templates & Notes](https://img.shields.io/badge/Templates_%26_Notes_(8_Items)-010101?style=for-the-badge&logo=adobeacrobatreader&logoColor=c583a0)](https://eslem-nur.github.io/official/#projects)
 [![Web Applications](https://img.shields.io/badge/Web_Applications_(9_Items)-010101?style=for-the-badge&logo=javascript&logoColor=c583a0)](https://eslem-nur.github.io/official/#projects)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-## Shop
+## ✦ Shop
 
 Discover my digital notebooks, planners, and personalized calligraphy art.
 
@@ -117,16 +108,15 @@ Discover my digital notebooks, planners, and personalized calligraphy art.
 
 <div align="center">
 
-[![🚀 Visit Live Site](https://img.shields.io/badge/🚀_Visit_Live_Site-010101?style=for-the-badge&logo=firefox&logoColor=c583a0&labelColor=c583a0)](https://eslem-nur.github.io/official/)
+[![Visit Live Site](https://img.shields.io/badge/Visit_Live_Site-010101?style=for-the-badge&logo=firefox&logoColor=c583a0&labelColor=c583a0)](https://eslem-nur.github.io/official/)
+[![Business Card](https://img.shields.io/badge/Business_Card-010101?style=for-the-badge&logo=github&logoColor=c583a0&labelColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
 
 </div>
 
-# Brands
+# ✦ Shop
 
 - **Eslem Nur Notes™** — Digital notes, study materials
 - **Eslem Nur Kalligrafie™** — Calligraphy, canvas art
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
 © 2026 **Eslem Nur Çetin**. All rights reserved.
 
