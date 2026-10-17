@@ -1,25 +1,42 @@
 <div align="center">
+
+# بسم الله الرحمن الرحيم
+</div>
+<div align="center">
   <img src="./logo.gif" alt="Eslem Nur Logo" width="100%" />
 </div>
 
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
+<div align="center">
 
 # Assalamu Alaikum wa Rahmatullahi wa Barakatuh, Ben Eslem Nur Çetin 🌸
 
+<sup>İlahiyat Öğrencisi &nbsp;·&nbsp; Front-End Geliştirici</sup>
+
+</div>
+
 [English](./README.md) | [Türkçe](./README.tr.md)
 
-📧 İş birliği, projeler veya başka konular için Email üzerinden ulaşabilirsiniz: *eslemnur-official@proton.me* 
 
-- 🔭 *İmam Hatip Lisesi mezunu ve birinci sınıf İlahiyat Fakültesi öğrencisi*
-- 🌱 *Şu anda öğreniyorum:* Front-End Development Libraries
-- 📫 *Nasıl ulaşılır:* eslemnur-official@proton.me
-- 😄 *Pronounlar:* She/Her
-- 🎯 *Motto:* Kalbimle ilmi, aklımla kodu bir araya getirmeye çalışıyorum
+## ✦ Hakkımda
 
-> *"Ey Rabbim! İlmimizi artır."* — رَبِّ زِدْنِى عِلْمًا
+Kalbimle ilmi, zihnimle kodu birleştirmeye çalışıyorum. Imam Hatip Lisesi eğitimim boyunca edindiğim akademik bilgiyi, İnşallah İlahiyat Fakültesi'nde derinleştirmeyi ve bunu günümüzün dijital dünyasında paylaşmanın yollarını bulmayı hedefliyorum.
 
-# 💻 Teknoloji Yığını:
+Hem bir *ilim talebesi* (ilahiyat öğrencisi) hem de gelişmekte olan bir geliştirici olarak, modern web teknolojileriyle anlamlı dijital çalışmalar üretmeye çalışıyorum.
+
+Amacım: إن شاء الله bilgiyi sadece kağıtta bırakmamak, onu dijital dünyada yaymak ve iyilik yolunda teknolojiyi kullanmak.
+
+> 📖 *"Rabbi zidni ilma"* — Ey Rabbim, ilmimi arttır!
+
+
+<div align="center">
+
+→ [Tüm Portfolyoyu Gör](https://eslem-nur.github.io/official/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
+
 ![HTML5](https://img.shields.io/badge/html5-010101?style=for-the-badge&logo=html5&logoColor=c583a0)
 ![CSS3](https://img.shields.io/badge/css3-010101?style=for-the-badge&logo=css3&logoColor=c583a0)
 ![JavaScript](https://img.shields.io/badge/javascript-010101?style=for-the-badge&logo=javascript&logoColor=c583a0)
@@ -37,32 +54,13 @@
 ![GitHub](https://img.shields.io/badge/github-010101?style=for-the-badge&logo=github&logoColor=c583a0)
 ![VS Code](https://img.shields.io/badge/VS_Code-010101?style=for-the-badge&logo=visualstudiocode&logoColor=c583a0)
 
-## 🌐 Sosyal Medya Bağlantıları:
 
-[![email](https://img.shields.io/badge/Email-010101?logo=gmail&logoColor=c583a0)](mailto:eslemnur-official@proton.me)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-010101?style=for-the-badge&logo=kofi&logoColor=c583a0)](https://ko-fi.com/eslemnur_notes)
-[![Linktree](https://img.shields.io/badge/Linktree-010101?style=for-the-badge&logo=linktree&logoColor=c583a0)](http://linktr.ee/eslemnur)
-[![GitHub Business Card](https://img.shields.io/badge/Business%20Card-010101?style=for-the-badge&logo=github&logoColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-010101?style=for-the-badge&logo=pinterest&logoColor=c583a0)](https://pinterest.com/eslemnur_notes_TR)
+### Odak Alanları
 
----
+`İslam Teknolojisi` · `Web Geliştirme` · `Dijital İçerik` · `Sadaka-i Cariyah`
 
-## 🌐 Açık Kaynak Katkıları
 
-Dini ilimleri modern web teknolojileriyle harmanlayan projelere aktif olarak katkı sağlıyorum.
-
-### 🏆 Başarılarım
-
-- 🥇 **İlim & Kod** — Dini bilimleri dijital dünyada paylaşmak
-- 🔧 **Çeşitli Projeler** — Kur'an uygulamaları, dualar, zikir sayacı, planlayıcılar
-- 💬 Kullanıcı geri bildirimleri üzerinden geliştirme
-- 🧪 Sadaka-i jariyah niyetiyle paylaşılan içerikler
-
-### 🛠️ Odak Alanı
-
-`İslami Teknoloji` · `Web Development` · `Dijital İçerik` · `Sadaka-i Cariye`
-
-## 📊 GitHub Stats:
+## ✦ GitHub İstatistikleri
 
 ![](https://github-readme-stats.vercel.app/api?username=eslem-nur&show_icons=true&bg_color=010101&title_color=c583a0&text_color=c583a0&icon_color=c583a0&border_color=c583a0&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
@@ -70,77 +68,27 @@ Dini ilimleri modern web teknolojileriyle harmanlayan projelere aktif olarak kat
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslem-nur&layout=compact&bg_color=010101&title_color=c583a0&text_color=c583a0&border_color=c583a0&hide_border=true&include_all_commits=true&count_private=true)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-# 📖 Hakkımda
-Kalbimle ilmi, aklımla kodu bir araya getirmeye çalışıyorum. İmam Hatip Lisesi eğitimim boyunca ilmi bilgiler edindim ve Allah'ın izniyle İlahiyat Fakültesinde derinleştirmeyi, günümüzün dijital dünyasında paylaşmanın yollarını aramayı hedefliyorum.
+## ✦ İletişim
 
-Hem ilim talebesi hem de gelişmekte olan bir geliştirici olarak, modern web teknolojileriyle anlamlı dijimal çalışmalar oluşturmaya çalışıyorum.
+<div align="center">
 
-Hedefim: إن شاء الله ilmi sadece kağıtta bırakmamak, dijital dünyada yaymak ve hayır yolunda teknolojiyi kullanmak.
+#### Bir şeyler inşa edelim.
 
----
+<sub>`˖⊹𖥔` Almanya &nbsp;·&nbsp; [eslemnur-official@proton.me](mailto:eslemnur-official@proton.me) &nbsp;·&nbsp; <code>eslem@dev$ _</code></sub>
 
-# 📜 Sertifikalarım
+[![Kartım](https://img.shields.io/badge/Kartım-010101?style=flat-square&logo=github&logoColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
 
-| Sertifika | Kurum |
-| :--- | :--- |
-| Python Programlama | freeCodeCamp |
-| C# Programlama | Microsoft İş Birliği |
-| Responsive Web Tasarım | freeCodeCamp |
-| Yazılımcılar için İngilizce (B1) | freeCodeCamp |
-| Tasarım & UI/UX Temelleri | Canva Design School |
+</br>
+</br>
 
----
+✦ ࣪ ˖ ✦
 
-# 💼 Projelerim
+</div>
 
-| Proje Türü | Örnekler |
-| :--- | :--- |
-| **Şablonlar & Notlar** | Gölge Kur'an, Tefsir/Tecvid/Arapça özetleri (FlipBook), Günlük Dualar, Planlayıcılar |
-| **Web Uygulamaları** | Nur Kur'an-ı Kerim, İlham & Tesbih Takibi, Kelime Oyunu, Akıllı Planlayıcı, Zikir Sayacı, Hac & Umre Rehberi, Ayat-i Kelim, iKuran, Notion Planlayıcım (Şablon) |
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c583a0&height=120&section=footer&text=Sevgiyle%20Eslem%20Nur%20%C3%87etin%20taraf%C4%B1ndan%20yap%C4%B1ld%C4%B1&fontSize=22&fontColor=010101&fontAlignY=72" width="100%" />
 
-# 🛍️ Mağaza
-
-| Ürün | Detaylar |
-| :--- | :--- |
-| **Defterler & PDF'ler** | GoodNotes şablonları, dijital defterler, Ramazan planlayıcı (Ko-fi üzerinden) |
-| **Çizimler / Hat Sanatı** | Kişiselleştirilmiş tuval sanat parçaları (yalnızca Almanya) |
-
----
-
-# ✨ Web Sitesi Özellikleri
-
-| Özellik | Açıklama |
-| :--- | :--- |
-| 🌙 **Karanlık/Aydınlık Mod** | Tercih kalıcı olarak kaydedilir |
-| 📱 **Responsive Tasarım** | Mobil, tablet ve masaüstü ile uyumlu |
-| 📲 **PWA Desteği** | Cihazınıza uygulama olarak kurulabilir |
-| 📑 **Sekmeli İçerik** | Projeler, sertifikalar ve mağaza kategorize edilmiştir |
-| 🎨 **Estetik Arayüz** | Playfair Display & Scheherazade New fontlarla zarif görünüm |
-
----
-
-# 🎨 Markalar
-
-- **Eslem Nur Notes™** — Dijital notlar, çalışma materyalleri
-- **Eslem Nur Kalligrafie™** — Hat sanatı, tuval işleri
-
-**Canlı Site:** [Eslem Nur Çetin](https://eslem-nur.github.io/official/)
-
-© 2026 **Eslem Nur Çetin**. Tüm hakları saklıdır.
-
-**Lisans:** [CC BY-NC-SA 4.0](./LICENSE)
-
-🇬🇧 [Lisans Detayları (İngilizce)](./LICENSE.md)
-🇹🇷 [Lisans Detayları (Türkçe)](./LICENSE.tr.md)
-
-Bu projedeki içerikler (notlar, şablonlar, web uygulamaları) **sadaka-i jariyah** (devamlı sadaka) niyetiyle paylaşılmaktadır. Ücretsiz içerikler serbestçe kullanılabilir; ticari ürünler Ko-fi üzerinden satın alınmalıdır.
-
-> ™ tescilsiz ticari marka anlamına gelir. Bu işaretler Almanya'da ortak hukuk ticari marka ilkelerine (MarkenG) göre kullanılmaktadır.
-
----
-
-❤️ ile yapıldı | **Eslem Nur Çetin** tarafından
+</div>
