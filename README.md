@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.gif" alt="Eslem Nur Logo" width="600" height="auto" />
+  <img src="./logo.gif" alt="Eslem Nur Logo" width="100%" />
 </div>
 
 
