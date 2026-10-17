@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./logo.gif" alt="Eslem Nur Logo" width="200" height="auto" />
+</div>
+
+
+
 بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
 # Assalamu Alaikum wa Rahmatullahi wa Barakatuh, I'm Eslem Nur Çetin 🌸
