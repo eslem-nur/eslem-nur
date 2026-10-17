@@ -48,10 +48,10 @@ I actively contribute to projects that blend religious sciences with modern web 
 
 ### 🏆 Achievements
 
-- 🌸 **Knowledge & Code** — Sharing religious sciences in the digital world
-- 🌸 **Various Projects** — Quran applications, prayers, dhikr counter, planners
-- Improvement based on user feedback
-- Content shared with the intention of sadaka-i jariyah (ongoing charity)
+- 🥇 **Knowledge & Code** — Sharing religious sciences in the digital world
+- 🔧 **Various Projects** — Quran applications, prayers, dhikr counter, planners
+- 💬 Improvement based on user feedback
+- 🧪 Content shared with the intention of sadaka-i jariyah (ongoing charity)
 
 ### 🛠️ Focus Areas
 
