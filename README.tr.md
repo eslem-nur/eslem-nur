@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./logo.gif" alt="Eslem Nur Logo" width="100%" />
+</div>
+
 بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
 
