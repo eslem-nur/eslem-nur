@@ -19,7 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-010101?style=for-the-badge&logo=html5&logoColor=c583a0)
 ![CSS3](https://img.shields.io/badge/css3-010101?style=for-the-badge&logo=css3&logoColor=c583a0)
@@ -38,30 +38,30 @@
 ![GitHub](https://img.shields.io/badge/github-010101?style=for-the-badge&logo=github&logoColor=c583a0)
 ![VS Code](https://img.shields.io/badge/VS_Code-010101?style=for-the-badge&logo=visualstudiocode&logoColor=c583a0)
 
-## 🌐 Contact:
+## Contact:
 
 [![Business Card](https://img.shields.io/badge/Business_Card-010101?style=for-the-badge&logo=github&logoColor=c583a0)](https://github.com/eslem-nur/Business-Card/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-## 🌐 Open Source Contributions
+## Open Source Contributions
 
 I actively contribute to projects that blend religious sciences with modern web technologies.
 
-### 🏆 Achievements
+### Achievements
 
 - 🥇 **Knowledge & Code** — Sharing religious sciences in the digital world
 - 🔧 **Various Projects** — Quran applications, prayers, dhikr counter, planners
 - 💬 Improvement based on user feedback
 - 🧪 Content shared with the intention of sadaka-i jariyah (ongoing charity)
 
-### 🛠️ Focus Areas
+### Focus Areas
 
 `Islamic Tech` · `Web Development` · `Digital Content` · `Sadaka-i Cariyah (Ongoing Charity)`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=eslem-nur&show_icons=true&bg_color=010101&title_color=c583a0&text_color=c583a0&icon_color=c583a0&border_color=c583a0&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
@@ -71,7 +71,7 @@ I actively contribute to projects that blend religious sciences with modern web 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-# 📖 About Me
+# About Me
 
 I strive to combine knowledge with my heart, and code with my mind. Throughout my Imam Hatip High School education, I gained scholarly knowledge, and with Allah's permission, I aim to deepen it at the Theology Faculty and find ways to share it in today's digital world.
 
@@ -114,12 +114,17 @@ Discover my digital notebooks, planners, and personalized calligraphy art.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
-# 🎨 Brands
+
+<div align="center">
+
+[![🚀 Visit Live Site](https://img.shields.io/badge/🚀_Visit_Live_Site-010101?style=for-the-badge&logo=firefox&logoColor=c583a0&labelColor=c583a0)](https://eslem-nur.github.io/official/)
+
+</div>
+
+# Brands
 
 - **Eslem Nur Notes™** — Digital notes, study materials
 - **Eslem Nur Kalligrafie™** — Calligraphy, canvas art
-
-**Live Site:** [Eslem Nur Çetin](https://eslem-nur.github.io/official/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c583a0&height=2" width="100%" />
 
